@@ -1,4 +1,7 @@
-# test coverage for  [doctoc (v1.3.0)](https://github.com/thlorenz/doctoc#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-doctoc.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-doctoc) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-doctoc.svg)](https://travis-ci.org/npmtest/node-npmtest-doctoc)
+# npmtest-doctoc
+
+#### basic test coverage for  [doctoc (v1.3.0)](https://github.com/thlorenz/doctoc#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-doctoc.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-doctoc) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-doctoc.svg)](https://travis-ci.org/npmtest/node-npmtest-doctoc)
+
 #### Generates TOC for markdown files of local git repo.
 
 [![NPM](https://nodei.co/npm/doctoc.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/doctoc)
